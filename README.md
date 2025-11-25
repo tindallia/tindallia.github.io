@@ -1,1 +1,0 @@
-Using [*Junior theme*](https://github.com/thundergolfer/junior-theme) by the awesome [thundergolfer](https://github.com/thundergolfer)
